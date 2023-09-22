@@ -30,11 +30,6 @@ The project is structured into separate projects/modules within the solution to 
 1. Run the application by starting the `CalculatorApp` project.
 2. Follow the prompts to enter numbers and select an operation.
 3. View the calculated result and choose to perform another calculation or exit.
-
-## Working Demo
-
- - https://www.loom.com/share/2913219a614546e99e6851fd29a66e93
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
