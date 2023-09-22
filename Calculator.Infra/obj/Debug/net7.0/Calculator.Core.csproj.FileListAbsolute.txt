@@ -1,0 +1,12 @@
+C:\SourceCode\akkatest\Development\Calculator.Infra\bin\Debug\net7.0\Calculator.Core.deps.json
+C:\SourceCode\akkatest\Development\Calculator.Infra\bin\Debug\net7.0\Calculator.Core.dll
+C:\SourceCode\akkatest\Development\Calculator.Infra\bin\Debug\net7.0\Calculator.Core.pdb
+C:\SourceCode\akkatest\Development\Calculator.Infra\obj\Debug\net7.0\Calculator.Core.csproj.AssemblyReference.cache
+C:\SourceCode\akkatest\Development\Calculator.Infra\obj\Debug\net7.0\Calculator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\akkatest\Development\Calculator.Infra\obj\Debug\net7.0\Calculator.Core.AssemblyInfoInputs.cache
+C:\SourceCode\akkatest\Development\Calculator.Infra\obj\Debug\net7.0\Calculator.Core.AssemblyInfo.cs
+C:\SourceCode\akkatest\Development\Calculator.Infra\obj\Debug\net7.0\Calculator.Core.csproj.CoreCompileInputs.cache
+C:\SourceCode\akkatest\Development\Calculator.Infra\obj\Debug\net7.0\Calculator.Core.dll
+C:\SourceCode\akkatest\Development\Calculator.Infra\obj\Debug\net7.0\refint\Calculator.Core.dll
+C:\SourceCode\akkatest\Development\Calculator.Infra\obj\Debug\net7.0\Calculator.Core.pdb
+C:\SourceCode\akkatest\Development\Calculator.Infra\obj\Debug\net7.0\ref\Calculator.Core.dll
